@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: eth_retry
+Version: 0.2.2
+Summary: Provides a decorator that automatically catches known transient exceptions that are common in the Ethereum/EVM ecosystem and reattempts to evaluate your decorated function
+Home-page: https://github.com/BobTheBuidler/eth_retry
+Author: BobTheBuidler
+Author-email: bobthebuidlerdefi@gmail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: typing_extensions>=4.0.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
